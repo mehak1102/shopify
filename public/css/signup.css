@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 100vh;
+  
+}
+
+.naam {
+   height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2d2d34;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn {
+    color: white;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.mgt {
+    margin-top: 2rem;
+}
